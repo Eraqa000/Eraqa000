@@ -9,9 +9,9 @@
 <h1 align="center">Привет👋 меня зовут Ернар </h1>
 
 <div align="center">
-  ### Socials  
+  <h2 align="center"> Socials</h2>  
   
-  <p align="left"> 
+  <p align="center"> 
     <a href="https://www.github.com/Eraqa000" target="_blank" rel="noreferrer">
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
