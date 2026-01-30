@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Ернар </h1>
+<h1 align="center">Привет👋 меня зовут Ернар </h1>
 
 <div align="center">
   <a href="https://t.me/s_9_7_5_3_1" target="_blank">
