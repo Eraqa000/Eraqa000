@@ -36,7 +36,7 @@
   </p>
   <a href="https://t.me/s_9_7_5_3_1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Eraqa000.Eraqa000&"  />
   </a>
   
 </div>
